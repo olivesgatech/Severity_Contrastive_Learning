@@ -1,0 +1,11 @@
+save/*
+.idea/*
+config/__pycache__/*
+loss/__pycache__/*
+models/__pycache__/*
+training_linear/__pycache__/*
+training_supcon/__pycache__/*
+training_main/__pycache__/*
+utils/__pycache__/*
+
+
