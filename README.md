@@ -3,7 +3,7 @@
 ***
 
 This work was done in the [Omni Lab for Intelligent Visual Engineering and Science (OLIVES) @ Georgia Tech](https://ghassanalregib.info/). 
-It has recently been accepted for publication in the IEEE Journal for Biomedical and Health Informatics!!
+It has recently been accepted for publication in the IEEE International Conference on Image Processing!!
 Feel free to check our lab's [Website](https://ghassanalregib.info/publications) 
 and [GitHub](https://github.com/olivesgatech) for other interesting work!!!
 
